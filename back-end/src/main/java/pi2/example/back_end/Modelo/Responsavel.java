@@ -1,6 +1,4 @@
-package pi2.example.back_end.entities;
-
-import java.util.Date;
+package pi2.example.back_end.Modelo;
 
 public class Responsavel {
 
