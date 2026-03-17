@@ -24,6 +24,8 @@ public class Beneficiario {
     private String situacao;
 
 
+    //construtor vazio
+
     public Beneficiario(int id, String nome, String nascimento, int idade, String rg, String cpf, String nis, double renda, String endereco, String bairro,
                         String tipoResidencia, String telefone, String celular, String celularRecado, Beneficiario beneficiario, String alergias, String tratamentos,
                         String medicamentos, String situacao) {
